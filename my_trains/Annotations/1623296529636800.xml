@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1623296529636800.png</filename>
+	<path>E:\服务器\ksLoginv04\images\1623296529636800.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>418</width>
+		<height>244</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>96</ymin>
+			<xmax>314</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>
